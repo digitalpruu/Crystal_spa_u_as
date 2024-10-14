@@ -108,7 +108,7 @@ Ya sea que necesites ajustar la apariencia de tu sitio, actualizar información 
 
 <h2>
 
-1. **🛠🖥️️ Si deseamos modificar las imagenes de nuestro sitio web 🖥️🛠️** (Banner, logos, etc) debemos ingresar a la carpeta **"images"**.
+1. **🛠🖥️️ Si deseamos modificar las imagenes de nuestro sitio web 🖥️🛠️** (Banner, logos, etc) debemos ingresar a la carpeta **"assets"**.
 
 </h2>
 
